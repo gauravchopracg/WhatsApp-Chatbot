@@ -1,0 +1,2 @@
+https://www.twilio.com/blog/build-a-whatsapp-chatbot-with-python-flask-and-twilio
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
