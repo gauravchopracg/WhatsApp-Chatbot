@@ -1,4 +1,5 @@
 This project aims to illustrate how to build a chatbot for WhatsApp using the Twilio API for WhatsApp and the Flask framework for Python.
+
 ![recognized_example.png](https://github.com/gauravchopracg/WhatsApp-Chatbot/blob/master/Output/example.png)
 
 ## Requirements
