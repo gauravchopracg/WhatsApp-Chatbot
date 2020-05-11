@@ -51,6 +51,8 @@ Now you need to copy the https:// URL from the ngrok output to Sandbox in the Tw
 ## Testing the Chatbot
 Now you can start sending messages to the chatbot from the smartphone that you connected to the sandbox.Type any sentence with words "quote" and "cat" in them.
 
+![recognized_example.png](https://github.com/gauravchopracg/WhatsApp-Chatbot/blob/master/Output/example.png)
+
 ## Deployment
 To deploy a WhatsApp chatbot for production use, skip the step of using ngrok and choose a cloud server for deployment of application. The two most common production ready web servers for Python web applicaiton are [gunicorn](https://gunicorn.org/) and [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) after that you can simply run chatbot by following:
 ```bash
