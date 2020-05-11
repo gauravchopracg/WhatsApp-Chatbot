@@ -31,6 +31,7 @@ From your [Twilio Console](https://www.twilio.com/console), select Programmable 
 
 4. Configuring the Chatbot
 ```bash
+$ cd Code/
 $ python bot.py
  * Serving Flask app "bot" (lazy loading)
  * Environment: production
