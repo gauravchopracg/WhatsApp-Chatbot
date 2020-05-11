@@ -59,3 +59,5 @@ To deploy a WhatsApp chatbot for production use, skip the step of using ngrok an
 ```bash
 $ gunicorn -b :5000 bot:app
 ```
+## Credits
+The credits for this project goes to [Miguel Grindberg](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) and [twilio](https://www.twilio.com/blog/build-a-whatsapp-chatbot-with-python-flask-and-twilio) for creating amazing tutorials on how to create web applications using Python and Flask framework integrated with Twilio API.
